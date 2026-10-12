@@ -3,3 +3,4 @@ gitignore
 __pycache/
 *.pyc
 .ruff_cache/
+.idea/
